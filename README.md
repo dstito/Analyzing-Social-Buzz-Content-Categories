@@ -13,7 +13,7 @@ largest aggregate popularity
 As a Data Analyst at Accenture North America, **My main task** is to provide an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity by applying data analytics and visualization skills into massive amount of data provided by the client.
 
 ## Final result
-The final result can be seen in Power Power given by this [link](https://docs.google.com/presentation/d/1qyHyHXD0q6rYz_h4ZFQjN0dgRkyn1D8_bodHKTUV7qI/edit?usp=sharing) or downloaded via this [link](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/PPT%20-%20Social%20Buzz%20Project.pptx)
+The final result can be seen in Power Power given by this [link](https://docs.google.com/presentation/d/1qyHyHXD0q6rYz_h4ZFQjN0dgRkyn1D8_bodHKTUV7qI/edit?usp=sharing), or downloaded via this [link](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/PPT%20-%20Social%20Buzz%20Project.pptx)
 
 I also provide an interactive dashboard to assist the client to make their own analysis, and you can see it on Tableau Public given by this [link](https://public.tableau.com/views/SocialBuzzDashboard_16980741281140/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link).
 
