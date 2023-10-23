@@ -11,6 +11,12 @@ Three main objectives based on the client's problems are,
 largest aggregate popularity
 
 As a Data Analyst at Accenture North America, **My main task** is to provide an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity by applying data analytics and visualization skills into massive amount of data provided by the client.
+## Content
+If you want to follow how I manage to complete this project, you check the notebooks provided in this repository.
+- [Task 1 - Project Understanding.ipynb](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/Task%201%20-%20Project%20Understanding.ipynb)
+- [Task 2 - Data Cleaning & Modeling.ipynb](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/Task%202%20-%20Data%20Cleaning%20%26%20Modeling.ipynb)
+- [Task 3 - Data Visualization & Storytelling.ipynb](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/Task%203%20-%20Data%20Visualization%20%26%20Storytelling.ipynb)
+- [Task 4 - Present to the Client.ipynb](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/Task%204%20-%20Present%20to%20the%20Client.ipynb)
 
 ## Final result
 The final result can be seen in Power Power given by this [link](https://docs.google.com/presentation/d/1qyHyHXD0q6rYz_h4ZFQjN0dgRkyn1D8_bodHKTUV7qI/edit?usp=sharing), or downloaded via this [link](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories/blob/main/PPT%20-%20Social%20Buzz%20Project.pptx)
